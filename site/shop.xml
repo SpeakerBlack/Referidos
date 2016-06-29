@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<item>
+		<id>0</id>
+		<nombre>La terrible posión</nombre>
+		<fichas>200</fichas>
+		<disponible>
+			<fun>true</fun>
+			<anka>false</anka>
+			<semi>false</semi>
+		</disponible>
+	</item>
+	<item>
+		<id>1</id>
+		<nombre>Guante de sangunario</nombre>
+		<fichas>400</fichas>
+		<disponible>
+			<fun>true</fun>
+			<anka>false</anka>
+			<semi>true</semi>
+		</disponible>
+	</item>
+	<item>
+		<id>2</id>
+		<nombre>Capa de saqueador</nombre>
+		<fichas>58</fichas>
+		<disponible>
+			<fun>false</fun>
+			<anka>true</anka>
+			<semi>true</semi>
+		</disponible>
+	</item>
+</items>

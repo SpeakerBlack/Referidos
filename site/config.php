@@ -1,0 +1,4 @@
+<?php 
+	$usuario = "root";
+	$contra = "";
+ ?>
